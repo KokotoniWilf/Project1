@@ -1,6 +1,6 @@
 # UDACITY Data Scientist Nanodegree
 
-## Project 1 - Writing a Data Scientist Blog Post
+## Project 1 - Writing a Data Science Blog Post
 
 
 ## Installations
@@ -57,3 +57,4 @@ The detailed results analysis is included in the python notebook along with the 
 ## Licensing, Authors, Acknowledgements, etc
 
 The dataset used in this analysis is provided by StackOverflow and is used in accordance with their licensing arrangement.
+The dataset was hosted original on the Kaggle website.
