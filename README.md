@@ -40,7 +40,7 @@ The files related to this project are as follows:
 3. Project_1_Code.ipynb - the python code used to answer the project questions.
 4. survey_results_schema.csv - a csv file containing a description of each of the survey questions.  Not used in the analysis but included to provide clarity on the dataset columns should the viewer wish to learn more about them.
 
-In addition there is a Medium blog post that presents the findings of this project.  The post can be found here.
+In addition there is a Medium blog post that presents the findings of this project.  The post can be found [here](https://medium.com/@kane_62029/diamonds-in-the-rough-or-how-i-learned-to-stop-worrying-and-embrace-data-science-2f1a03383eaf).
 
 ## How to interact with the project
 
